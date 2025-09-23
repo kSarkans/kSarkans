@@ -7,7 +7,7 @@
 
 ---
 
-Mojь nikъ estь **Sarkans**, no ne **kSarkans**. Buky *k* vъ načędlě poterbьna bo vьśaci latyši zajьmajǫtь logini sarkans/Sarkans.
+Mojь nikъ estь **Sarkans**, no ne **kSarkans**. Buky *k* vъ načędlě poterbьna bo vьśaci latyši zajьmajǫtь logyni sarkans/Sarkans.
 
 ## Kortъko o mi
 
