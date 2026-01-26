@@ -2,8 +2,6 @@
 
 - [Русский](README_RU.md)
 - [Polski](README_PL.md)
-- [Meďuslovjansky (Latinica)](README_ISV_L.md)
-- [Slověnьskъ](README_PSV.md)
 
 ---
 
@@ -13,7 +11,7 @@ My nickname is **Sarkans**, not **kSarkans**. The *k* at the beginning is necess
 
 - I'm an enthusiastic C++ developer
 - My primary operating system is Linux
-- My languages ​​are English, Russian, Polish (read-only), Interslavic, and Proto-Slavic (the last two are pretty useless, aren't they?)
+- My languages ​​are English, Russian, Polish (read-only)
 - My pronouns are beep/boop
 - My gender is Panzerkampfwagen I Aufs A Ohne Aufbau
 - I'm unemployed
