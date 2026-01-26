@@ -2,8 +2,6 @@
 
 - [Русский](README_RU.md)
 - [English](README.md)
-- [Meďuslovjansky (Latinica)](README_ISV_L.md)
-- [Slověnьskъ](README_PSV.md)
 
 ---
 
@@ -13,7 +11,7 @@ Mój pseudonim to **Sarkans**, a nie **kSarkans**. *k* na początku jest koniecz
 
 - Jestem entuzjastycznym programistą C++
 - Moim głównym systemem operacyjnym jest Linux
-- Moimi językami są angielski, rosyjski, polski (tylko do odczytu), język międzysłowiański i prasłowiański (te dwa ostatnie są dość bezużyteczne, prawda?)
+- Moimi językami są angielski, rosyjski, polski (tylko do odczytu)
 - Moja wymowa to bip/bip
 - Moja płeć to Panzerkampfwagen I Aufs A Ohne Aufbau
 - Jestem bezrobotny
